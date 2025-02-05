@@ -1,2 +1,2 @@
 # thebagoftheunexpected
-Codecademy- Company Homepage Project
+Homepage Project
